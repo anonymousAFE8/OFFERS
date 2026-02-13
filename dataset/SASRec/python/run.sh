@@ -1,0 +1,1 @@
+python main.py --dataset=krnd-100 --train_dir=default --maxlen=100 --dropout_rate=0.2 --device=cuda:1
